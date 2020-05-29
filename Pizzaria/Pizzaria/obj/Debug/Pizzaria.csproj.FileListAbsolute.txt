@@ -1,0 +1,251 @@
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Oficial\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe.config
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Oficial\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Oficial\Pizzaria\Pizzaria\bin\Debug\Pizzaria.pdb
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.dll
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.SqlServer.dll
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.xml
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.SqlServer.xml
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csprojAssemblyReference.cache
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Properties.Resources.resources
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.GenerateResource.cache
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.CoreCompileInputs.cache
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.CopyComplete
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Login.resources
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaCadastrarClientes.resources
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Estoque.resources
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.CadastroClientes.resources
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Delivery.resources
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Ingredientes.resources
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.cadastroMesas.resources
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Mesas.resources
+C:\Users\Aluno\Documents\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaCadastrarClientes.resources
+C:\Users\Aluno\Documents\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.CadastroClientes.resources
+C:\Users\Aluno\Documents\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Delivery.resources
+C:\Users\Aluno\Documents\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Estoque.resources
+C:\Users\Aluno\Documents\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Ingredientes.resources
+C:\Users\Aluno\Documents\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Login.resources
+C:\Users\Aluno\Documents\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.cadastroMesas.resources
+C:\Users\Aluno\Documents\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Mesas.resources
+C:\Users\Aluno\Documents\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Properties.Resources.resources
+C:\Users\Aluno\Documents\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe
+C:\Users\Aluno\Documents\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
+C:\Users\Aluno\Documents\ExemploLogin\Oficial\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe.config
+C:\Users\Aluno\Documents\ExemploLogin\Oficial\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe
+C:\Users\Aluno\Documents\ExemploLogin\Oficial\Pizzaria\Pizzaria\bin\Debug\Pizzaria.pdb
+C:\Users\Aluno\Documents\ExemploLogin\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Documents\ExemploLogin\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Documents\ExemploLogin\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Documents\ExemploLogin\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Documents\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.CopyComplete
+C:\Users\Aluno\Documents\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaPosLogin.resources
+C:\Users\Aluno\Documents\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.novoPedido.resources
+D:\ExemploLogin\Oficial\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe.config
+D:\ExemploLogin\Oficial\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe
+D:\ExemploLogin\Oficial\Pizzaria\Pizzaria\bin\Debug\Pizzaria.pdb
+D:\ExemploLogin\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.dll
+D:\ExemploLogin\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.SqlServer.dll
+D:\ExemploLogin\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.xml
+D:\ExemploLogin\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.SqlServer.xml
+D:\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csprojAssemblyReference.cache
+D:\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaCadastrarClientes.resources
+D:\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.CadastroClientes.resources
+D:\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Delivery.resources
+D:\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Estoque.resources
+D:\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.novoPedido.resources
+D:\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaPosLogin.resources
+D:\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Ingredientes.resources
+D:\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Login.resources
+D:\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.cadastroMesas.resources
+D:\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Mesas.resources
+D:\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Properties.Resources.resources
+D:\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.GenerateResource.cache
+D:\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.CoreCompileInputs.cache
+D:\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.CopyComplete
+D:\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe
+D:\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
+D:\ExemploLogin\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Funcionarios.resources
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria\Oficial\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe.config
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria\Oficial\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria\Oficial\Pizzaria\Pizzaria\bin\Debug\Pizzaria.pdb
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.dll
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.SqlServer.dll
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.xml
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.SqlServer.xml
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csprojAssemblyReference.cache
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaCadastrarClientes.resources
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.CadastroClientes.resources
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Delivery.resources
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Estoque.resources
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Funcionarios.resources
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.novoPedido.resources
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaPosLogin.resources
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Ingredientes.resources
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Login.resources
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.cadastroMesas.resources
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Mesas.resources
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Properties.Resources.resources
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.GenerateResource.cache
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.CoreCompileInputs.cache
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.CopyComplete
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe
+D:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
+C:\Users\murilo\Desktop\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csprojAssemblyReference.cache
+C:\Users\murilo\Desktop\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaPosLogin.resources
+C:\Users\murilo\Desktop\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Properties.Resources.resources
+C:\Users\murilo\Desktop\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.GenerateResource.cache
+C:\Users\murilo\Desktop\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe
+C:\Users\murilo\Desktop\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
+C:\Users\murilo\Desktop\Oficial\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe.config
+C:\Users\murilo\Desktop\Oficial\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe
+C:\Users\murilo\Desktop\Oficial\Pizzaria\Pizzaria\bin\Debug\Pizzaria.pdb
+C:\Users\murilo\Desktop\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.dll
+C:\Users\murilo\Desktop\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\murilo\Desktop\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.xml
+C:\Users\murilo\Desktop\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\murilo\Desktop\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.CopyComplete
+C:\Users\murilo\Desktop\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaDelivery.resources
+E:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csprojAssemblyReference.cache
+E:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.CadastroClientes.resources
+E:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.CadastroUsuario.resources
+E:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Estoque.resources
+E:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Funcionarios.resources
+E:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.novoPedido.resources
+E:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaDelivery.resources
+E:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaPosLogin.resources
+E:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Ingredientes.resources
+E:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Login.resources
+E:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.cadastroMesas.resources
+E:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Mesas.resources
+E:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Properties.Resources.resources
+E:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.GenerateResource.cache
+E:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe
+E:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
+E:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.CoreCompileInputs.cache
+E:\Oficial\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe.config
+E:\Oficial\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe
+E:\Oficial\Pizzaria\Pizzaria\bin\Debug\Pizzaria.pdb
+E:\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.dll
+E:\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.xml
+E:\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.CopyComplete
+D:\Oficial\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe.config
+D:\Oficial\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe
+D:\Oficial\Pizzaria\Pizzaria\bin\Debug\Pizzaria.pdb
+D:\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.dll
+D:\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.SqlServer.dll
+D:\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.xml
+D:\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.SqlServer.xml
+D:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csprojAssemblyReference.cache
+D:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.CadastroClientes.resources
+D:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.CadastroUsuario.resources
+D:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Estoque.resources
+D:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Funcionarios.resources
+D:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.novoPedido.resources
+D:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaDelivery.resources
+D:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaPosLogin.resources
+D:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Ingredientes.resources
+D:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Login.resources
+D:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.cadastroMesas.resources
+D:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Mesas.resources
+D:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Properties.Resources.resources
+D:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.GenerateResource.cache
+D:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.CoreCompileInputs.cache
+D:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.CopyComplete
+D:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe
+D:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
+D:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Produtos.resources
+E:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.ingredientesDosProdutos.resources
+E:\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Produtos.resources
+C:\Users\murilo\Desktop\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaCadastroClientes.resources
+C:\Users\murilo\Desktop\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaCadastroUsuario.resources
+C:\Users\murilo\Desktop\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaEstoque.resources
+C:\Users\murilo\Desktop\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaFuncionarios.resources
+C:\Users\murilo\Desktop\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaIngredientesDosProdutos.resources
+C:\Users\murilo\Desktop\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaNovoPedido.resources
+C:\Users\murilo\Desktop\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaPedidoDelivery.resources
+C:\Users\murilo\Desktop\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Produtos.resources
+C:\Users\murilo\Desktop\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaIngredientes.resources
+C:\Users\murilo\Desktop\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaLogin.resources
+C:\Users\murilo\Desktop\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaCadastroMesas.resources
+C:\Users\murilo\Desktop\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaMesas.resources
+E:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csprojAssemblyReference.cache
+E:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaCadastroClientes.resources
+E:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaCadastroUsuario.resources
+E:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaEstoque.resources
+E:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaFuncionarios.resources
+E:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaIngredientesDosProdutos.resources
+E:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaNovoPedido.resources
+E:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaPedidoDelivery.resources
+E:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Produtos.resources
+E:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaDelivery.resources
+E:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaPosLogin.resources
+E:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaIngredientes.resources
+E:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaLogin.resources
+E:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaCadastroMesas.resources
+E:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaMesas.resources
+E:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Properties.Resources.resources
+E:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.GenerateResource.cache
+E:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe
+E:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
+D:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csprojAssemblyReference.cache
+D:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaCadastroClientes.resources
+D:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaCadastroUsuario.resources
+D:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaEstoque.resources
+D:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaFuncionarios.resources
+D:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaIngredientesDosProdutos.resources
+D:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaNovoPedido.resources
+D:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaPedidoDelivery.resources
+D:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Produtos.resources
+D:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaDelivery.resources
+D:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaPosLogin.resources
+D:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaIngredientes.resources
+D:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaLogin.resources
+D:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaCadastroMesas.resources
+D:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaMesas.resources
+D:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Properties.Resources.resources
+D:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.GenerateResource.cache
+D:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.CoreCompileInputs.cache
+D:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe
+D:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
+D:\final com acabamentos\Oficial\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe.config
+D:\final com acabamentos\Oficial\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe
+D:\final com acabamentos\Oficial\Pizzaria\Pizzaria\bin\Debug\Pizzaria.pdb
+D:\final com acabamentos\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.dll
+D:\final com acabamentos\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.SqlServer.dll
+D:\final com acabamentos\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.xml
+D:\final com acabamentos\Oficial\Pizzaria\Pizzaria\bin\Debug\EntityFramework.SqlServer.xml
+D:\final com acabamentos\Oficial\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.CopyComplete
+E:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria(Versão Final)\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe.config
+E:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria(Versão Final)\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe
+E:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria(Versão Final)\Pizzaria\Pizzaria\bin\Debug\Pizzaria.pdb
+E:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria(Versão Final)\Pizzaria\Pizzaria\bin\Debug\EntityFramework.dll
+E:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria(Versão Final)\Pizzaria\Pizzaria\bin\Debug\EntityFramework.SqlServer.dll
+E:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria(Versão Final)\Pizzaria\Pizzaria\bin\Debug\EntityFramework.xml
+E:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria(Versão Final)\Pizzaria\Pizzaria\bin\Debug\EntityFramework.SqlServer.xml
+E:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria(Versão Final)\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csprojAssemblyReference.cache
+E:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria(Versão Final)\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaCadastroClientes.resources
+E:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria(Versão Final)\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaCadastroUsuario.resources
+E:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria(Versão Final)\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaEstoque.resources
+E:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria(Versão Final)\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaFuncionarios.resources
+E:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria(Versão Final)\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaIngredientesDosProdutos.resources
+E:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria(Versão Final)\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaNovoPedido.resources
+E:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria(Versão Final)\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaPedidoDelivery.resources
+E:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria(Versão Final)\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Produtos.resources
+E:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria(Versão Final)\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaDelivery.resources
+E:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria(Versão Final)\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaPosLogin.resources
+E:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria(Versão Final)\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaIngredientes.resources
+E:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria(Versão Final)\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaLogin.resources
+E:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria(Versão Final)\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaCadastroMesas.resources
+E:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria(Versão Final)\Pizzaria\Pizzaria\obj\Debug\Pizzaria.telaMesas.resources
+E:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria(Versão Final)\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Properties.Resources.resources
+E:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria(Versão Final)\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.GenerateResource.cache
+E:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria(Versão Final)\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.CoreCompileInputs.cache
+E:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria(Versão Final)\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.CopyComplete
+E:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria(Versão Final)\Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe
+E:\AULA\TECNICO INFORMÁTICA\2°SEMESTRE\SA\Pizzaria(Versão Final)\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
